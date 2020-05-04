@@ -6,3 +6,8 @@ Josip
 jurij
 ivan
 
+
+predsedniki:
+
+Borut Pahor
+
