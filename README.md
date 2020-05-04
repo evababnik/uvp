@@ -6,3 +6,5 @@ Josip
 jurij
 ivan
 
+Predsedniki:
+Janša
